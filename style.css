@@ -1,0 +1,36 @@
+  
+ H3 { color: #000099; background: transparent; }
+ 
+ H5 { color: #000099; background: transparent; }
+
+  TD	{ font-size: 12pt; }
+  TH	{ font-family: Helvetica, sans-serif; font-weight: bold; font-size: 12pt; }
+  
+  P { margin-bottom: 5px; margin-left: 5px; }
+  P.note {font-size: small ;}	
+
+  .address { margin-top: 15px ; border: 0px none ;}
+  
+  .bio	{ padding: 10px; padding-top: 5px; margin: 0px ; margin-top: 5px ; margin-bottom: 5px; background: #ccffcc; 
+		border-width: 1px; border-color: #000099; border-style: solid}
+
+  .bio2 { padding: 10px ; margin: 0px ; margin-top: 7px; background: #ccccff; }
+  
+  .descrip  { font-size: 10pt; font-family: Verdana, Helvetica, Arial, "Arial Narrow", sans-serif; }
+
+  .name { color: #000099; background: transparent; font-weight: bold; font-style: italic ;}
+
+  .news {border-width: 1px; border-color: #000099; border-style: solid; background: #ffffcc; }
+
+  .navbar { color: #000099; font-size: 10pt; font-weight: bold; padding: 5px; 
+	font-family: Verdana, Helvetica, Impact, sans-serif }
+
+  .show { padding: 10px; font-size: 12pt; }
+
+.teal { color: #008080; }
+
+  A { text-decoration: none ; background: transparent; }
+  A:active { color: red ; background: transparent; }
+  A:link  { color : #6699ff ; background: transparent;  } 
+  A:visited { color: #000099 ;background: transparent;} 
+  A:hover { color: #33cc66 ; background: transparent; } 
